@@ -10,3 +10,4 @@ pytube
 python-multipart
 urllib3
 pyOpenSSL
+gTTS
